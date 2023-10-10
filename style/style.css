@@ -1,0 +1,297 @@
+#inner_bg_img
+{
+  background-image: url("https://www.success.bank/images/bg-marketing-text.png") !important;
+  background-color: #cccccc; 
+  height: 480px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+*
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+#dropdown1
+{
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+body
+{
+  background-color: light;
+}
+
+#log-text
+    {
+      background-color:#970000; 
+      color: white;
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+#user_name
+{
+  height: 50px;
+}
+
+#user_password 
+{
+  height: 50px;
+}
+
+input[type="text"]#user_name 
+{
+    font-family: inherit;
+    font-size: 20px!important;
+}
+
+input[type="password"]#user_password 
+{
+    font-family: inherit;
+    font-size: 20px!important;
+}
+.shadow
+{
+    box-shadow: 0px 0px 10px 3px #aaaaaa;
+}
+
+.shadow2nav
+{
+    box-shadow: 0px 0px 10px 3px #970000;
+}
+
+#loan_options
+{
+  margin-top:7px;
+}
+
+.shadow1
+{
+    box-shadow: 0px 0px 10px 0px #aaaaaa;
+}
+
+.shadow:hover
+{
+  box-shadow: 0px 0px 10px 5px #ffb516;
+}
+
+*
+{
+  scroll-behavior: smooth;
+}
+
+#header-section
+{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+#list li a:hover
+{
+  transition-duration: 0.4s;
+  margin-left: 7px;
+}
+
+#feedback
+{
+  height: 100%;
+  width: 100%;
+}
+
+#input1
+{
+  height: 35px;
+  width: 100%;
+  border-radius: 7px;
+  border:1px solid;
+}
+
+input[type="text"]#input1
+{
+  padding-left: 10px;
+}
+
+input[type="email"]#input2
+{
+  padding-left: 10px;
+}
+
+[type="text"]#input3
+{
+  padding-left: 10px;
+}
+#outereye
+{
+  position: relative;
+}
+
+#eye
+{
+  position: absolute;
+  right: 20px;
+  margin-top: -40px;
+  border-radius: 5px;
+  text-align:center;
+  color: white;
+  background:#970000;
+  margin-right: 10px;
+  padding: 7px; 
+  cursor: pointer;
+}
+
+#input2
+{
+  height: 35px;
+  width: 100%;
+  border-radius: 7px;
+  border:1px solid;
+}
+
+#input3
+{
+  width: 100%;
+  border-radius: 7px;
+  
+}
+#table1
+{
+  border: 1px;
+}
+
+textarea
+{
+  padding-left: 10px;
+}
+
+a #span
+    {
+      display:none;
+    }
+
+#shadow1
+{
+  box-shadow: 0px 0px 10px 3px #aaaaaa;
+}
+
+@media only screen and (max-width: 905px)
+   {
+    #nav1
+    {
+      display: none;
+    }
+    .dis1
+    {
+      display: none;
+    }
+   }
+@media only screen and (min-width: 905px)
+   {
+    #na11
+    {
+      position: fixed;
+      top: -5px;
+      z-index: 1;
+      width: 100%;
+    }
+    #navbottom
+    {
+      margin-top: 110px;
+    }
+
+   }
+
+
+.tran
+{
+  overflow: hidden !important;
+  transition-duration: 0.5s;
+}
+
+.tran:hover
+{
+  transform:scale(1.1);
+}
+
+#btnl
+{
+  background-color: #970000;
+} 
+
+
+#my_tran
+{
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 905px)
+{
+    #user_name
+    {
+      height: 50px;
+    }
+
+    #mar
+    {
+      margin-top: 20px !important;
+    }
+
+    #mar1
+    {
+      margin-top: 20px !important;
+    }
+
+    #user_password 
+    {
+      height: 50px;
+    }
+
+    input[type="text"]#user_name 
+    {
+        font-family: inherit;
+        font-size: 15px!important;
+    }
+
+    input[type="password"]#user_password 
+    {
+        font-family: inherit;
+        font-size: 15px!important;
+    }
+
+
+    #log-text
+    {
+      background-color:#970000; 
+      color: white;
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+    .h-login
+    {
+      margin-top: 500px !important;
+    }
+}
+.color
+{
+  background: #970000;
+}
+
+.color a:hover
+{
+  color: black !important;
+}
+
+#mar
+    {
+      margin-top: 150px;
+    }
+#mar1
+    {
+      margin-top: 120px;
+    }
